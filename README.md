@@ -6,7 +6,7 @@
 
 Calculate any equation you like and click the "CR" button when you want to clear the input value.
 
-you can check out the calcuator [here.](https://joerocky7.github.io/Calculator-App/)
+you can check out the calcuator [here.](https://joerocky7.github.io/New-Calculator/)
 
 ![newcalculator2](https://user-images.githubusercontent.com/55517078/105558097-cfdea400-5cdb-11eb-83f0-2ff8c8575b8c.JPG)
 
