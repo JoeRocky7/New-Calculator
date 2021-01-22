@@ -14,6 +14,8 @@ you can check out the calcuator [here.](https://joerocky7.github.io/Calculator-A
 
 This was by far the most difficult Javascript project i have completed so far, but I am glad I pushed through it because I learned a lot from it like the parseFloat method and a better understanding of how to logically come up with solutions to problems.
 
+This project helped me improve my DRY code (Don’t Repeat Yourself), something I was struggling on my coding journey and now have a better grasp on.
+
 ## Author
 
 **Joseph Mittiga** - *Front-End Developer* - [Linkedin](https://www.linkedin.com/in/joseph-mittiga-939121203/)
