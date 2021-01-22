@@ -8,7 +8,7 @@ Calculate any equation you like and click the "CR" button when you want to clear
 
 you can check out the calcuator [here.](https://joerocky7.github.io/Calculator-App/)
 
-![calcFinal5](https://user-images.githubusercontent.com/55517078/79056287-a6f49300-7c22-11ea-8dc1-055992d92eb7.PNG)
+![newcalculator2](https://user-images.githubusercontent.com/55517078/105558097-cfdea400-5cdb-11eb-83f0-2ff8c8575b8c.JPG)
 
 ## Summary
 
