@@ -12,9 +12,9 @@ you can check out the calcuator [here.](https://joerocky7.github.io/New-Calculat
 
 ## Summary
 
-This was by far the most difficult Javascript project i have completed so far, but I am glad I pushed through it because I learned a lot from it like the parseFloat method and a better understanding of how to logically come up with solutions to problems.
+This was by far the most difficult Javascript project i have completed so far, but I am glad I pushed through it because I learned a lot from it like the parseFloat method and a better understanding of how to logically come up with solutions to problems. This project also helped me improve my DRY code (Don’t Repeat Yourself), something I was struggling on my coding journey and now have a better grasp on. Learning about my DRY code has taught me how to write cleaner code, something that is very helpful to other developer when they read my code. 
 
-This project helped me improve my DRY code (Don’t Repeat Yourself), something I was struggling on my coding journey and now have a better grasp on.
+
 
 ## Author
 
