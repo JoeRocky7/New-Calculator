@@ -46,7 +46,6 @@ equalsButton.addEventListener("click", function (e) {
 
 const decimalButton = document.querySelector("#operator-decimal");
 decimalButton.addEventListener("click", function (e) {
-    console.log("hello");
     input.value = document.querySelector("#operator-decimal").innerText;
     if (operator === null) {
         setNumOne(e.target.innerText)
