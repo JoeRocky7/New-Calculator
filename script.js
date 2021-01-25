@@ -105,12 +105,14 @@ function executeOperation() {
         num1 = result;
         input.value = num1;
         num2 = 0;
+        operator = input.value;
     }
     if (operator === "/") {
         let result = divisionResult();
         num1 = result;
         input.value = num1;
         num2 = 0;
+        operator = input.value;
     }
 }
 
