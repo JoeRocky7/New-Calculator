@@ -23,24 +23,15 @@ const operatorButtons = document.querySelectorAll(".operator-btn");
 for (let index = 0; index < operatorButtons.length; index++) {
     operatorButtons[index].addEventListener("click", function (e) {
         executeOperation();
+        
         operator = e.target.textContent;
     })
 }
 
-const divisionButton = document.querySelector("#operator-division");
-divisionButton.addEventListener("click", function (e) {
-    if (operator === "=") {
-        let result = divisionResult();
-        num1 = result;
-        input.value = num1;
-        num2 = 0;
-    }
-    operator = "/";
-})
-
 const equalsButton = document.querySelector("#equals");
 equalsButton.addEventListener("click", function (e) {
     executeOperation();
+    
     console.log("=");
 })
 
@@ -52,7 +43,6 @@ decimalButton.addEventListener("click", function (e) {
     } else {
         setNumTwo(e.target.innerText)
     }
-
 })
 
 const clearButton = document.querySelector("#operator-cr");
@@ -95,16 +85,6 @@ function divisionResult() {
 
 function subtractionResult() {
     return parseFloat(num1) - parseFloat(num2);
-    if (operator !== null) {
-        const result = subtractionResult();
-        num1 = result;
-        input.value = num1;
-        num2 = 0;
-    }
-}
-
-function clearInput() {
-    input.value = "0";
 }
 
 function executeOperation() {
@@ -132,4 +112,8 @@ function executeOperation() {
         input.value = num1;
         num2 = 0;
     }
+}
+
+function clearInput() {
+    input.value = "0";
 }
